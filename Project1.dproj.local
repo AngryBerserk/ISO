@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.390,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,D:\Distributives\Proj\Delphi\ISO\Unit2.pas=D:\Distributives\Proj\Delphi\ISO\UTile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,D:\Distributives\Proj\Delphi\ISO\Unit2.pas=D:\Distributives\Proj\Delphi\ISO\UcubegrassTile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,D:\Distributives\Proj\Delphi\ISO\Project1.dproj=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,D:\Distributives\Proj\Delphi\ISO\Unit2.pas=D:\Distributives\Proj\Delphi\ISO\UImage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Distributives\Proj\Delphi\ISO\Unit2.pas=D:\Distributives\Proj\Delphi\ISO\UDummyCube.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\Distributives\Proj\Delphi\ISO\Unit1.pas=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,D:\Distributives\Proj\Delphi\ISO\ImageLoader.pas=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,D:\Distributives\Proj\Delphi\ISO\LImage.pas=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\Distributives\Proj\Delphi\ISO\Unit1.dfm=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,=C:\Documents and Settings\chertushkin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 10:39:08.890,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 10:41:13.921,D:\Distributives\Proj\Delphi\ISO\UISO_Draw.pas=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 12:59:01.906,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 13:05:15.296,D:\Distributives\Proj\Delphi\ISO\UTileManager.pas=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 15:24:44.875,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 15:25:32.500,D:\Distributives\Proj\Delphi\ISO\UWaterCube.pas=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 16:28:06.171,=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+    <Transaction>2011.12.29 16:29:17.468,D:\Distributives\Proj\Delphi\ISO\UHeart.pas=D:\Distributives\Proj\Delphi\ISO\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
